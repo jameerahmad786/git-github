@@ -1,1 +1,2 @@
-This is new comment in feature1
+This is new comment in feature1. Added one more feature
+This is done.
